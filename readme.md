@@ -9,3 +9,6 @@ Unit Tests should be stored on disk and easy to run to make them easier to work 
 
 ### Reflections
 What I like about this chapter is that you build up a testing framework from scratch. A lot of the logic is foreign to me though. It kinda reminds me of secrets of a javascript ninja by John Resig, but just a little simpler. Which is a good thing I guess. All in all I think this will be a good book for me to get through, but it will be challenging.
+
+## Chapter 2 - TDD Process
+This chapter seemed the most hard to follow for me. There isn't a lot of code in this chapter more of an overview of TDD and how it used on a large scale project. For me its tough to really follow along because I have never found myself working on a team on a large scale project. I am sure that the knowledge in here is useful and that there will come a time when I can connect with it. But for now this chapter didn't resinate with me at all and I was glad it was over. It did state some obvious things about why TDD is good, but at this point it is all RA RA RA. I am ready to learn how to test better. The next chapter will be where things get interesting I believe.
