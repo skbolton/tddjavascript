@@ -1,5 +1,4 @@
 Date.prototype.strftime = (function() {
-  debugger;
   function strftime(format) {
     var date = this;
 
