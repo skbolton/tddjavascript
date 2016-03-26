@@ -12,3 +12,5 @@ What I like about this chapter is that you build up a testing framework from scr
 
 ## Chapter 2 - TDD Process
 This chapter seemed the most hard to follow for me. There isn't a lot of code in this chapter more of an overview of TDD and how it used on a large scale project. For me its tough to really follow along because I have never found myself working on a team on a large scale project. I am sure that the knowledge in here is useful and that there will come a time when I can connect with it. But for now this chapter didn't resinate with me at all and I was glad it was over. It did state some obvious things about why TDD is good, but at this point it is all RA RA RA. I am ready to learn how to test better. The next chapter will be where things get interesting I believe.
+
+**I have put work on this book on hold. It seems to me like a lot of this material is more advanced then where I am at right now.**
